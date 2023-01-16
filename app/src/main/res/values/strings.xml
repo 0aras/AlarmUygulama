@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AlarmUygulama</string>
+    <string name="reminders_notification_channel_id">1</string>
+    <string name="reminders_notification_channel_name">kanal1</string>
+    <string name="title_notification_reminder">Gözlük</string>
+    <string name="description_notification_reminder">Gözlüü unutma</string>
+</resources>
